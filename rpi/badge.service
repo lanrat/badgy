@@ -1,0 +1,14 @@
+# ln -s /root/led-clock/clock.service /etc/systemd/system/clock.service
+# ln -s /etc/systemd/system/clock.service /etc/systemd/system/multi-user.target.wants/clock.service
+# systemctl daemon-reload
+
+[Unit]
+Description=Badge
+#After=network.target
+
+[Service]
+ExecStart=/root/badgy/run.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

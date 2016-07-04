@@ -1,0 +1,3 @@
+[submodule "pifm"]
+	path = rpi/pifm
+	url = https://github.com/rm-hull/pifm.git
