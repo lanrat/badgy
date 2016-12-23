@@ -6,6 +6,8 @@ This is a battery powered self contained HID badge collector. It it meant to sit
 <img alt="Badgy Front" src="https://cloud.githubusercontent.com/assets/164192/16549955/dbc60ba2-4159-11e6-97b2-052cf87bb57e.jpg" width="50%">
 <img alt="Badgy Back" src="https://cloud.githubusercontent.com/assets/164192/16549958/e03c4016-4159-11e6-8fc0-2cc0d002265d.jpg" width="50%">
 
+More information can be found on my [Blog](https://lanrat.com/badgy/).
+
 ## Demo Video
 [![Demo Video](https://img.youtube.com/vi/GYZLhhPMKZM/0.jpg)](https://www.youtube.com/watch?v=GYZLhhPMKZM)
 
